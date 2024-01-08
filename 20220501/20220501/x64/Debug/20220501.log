@@ -1,2 +1,0 @@
-﻿20220501.obj : error LNK2005: main 已经在 20220501-1.obj 中定义
-F:\c\code\20220501\x64\Debug\20220501.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
